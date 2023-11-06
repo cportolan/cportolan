@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hola 
 
-<!--
-**cportolan/cportolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Cristian Portolan**
 
-Here are some ideas to get you started:
+En 2021 comencé a estudiar de manera autodidacta Desarrollo y Diseño Web, comencé con las tecnologías básicas y luego en 2022 comencé la carrera de Ingeniería en Informática en la UBA. Actualmente, de manera autodidacta y con cursos, busco expandir diariamente mis conocimientos y mejorar mis habilidades como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+Tengo la capacidad de:
+* Desarollar software en C y en Python.
+* Desarollar páginas web como Front-End con **HTML**, **CSS / BootStrap**, **JavaScript** y **React**
+* Aplicar bases y leyes de Diseño UX/UI a proyectos.
+* Manejar y controlar el versionado de código con **Git** y **GitHub**.
+
+## 📞 Contacto
+
+* Email: cristianportolan7@gmail.com
+* Portafolio web: [https://cristianportolan.vercel.app](https://cristianportolan.vercel.app)
