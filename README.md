@@ -7,8 +7,8 @@ En 2021 comencé a estudiar de manera autodidacta Desarrollo y Diseño Web, come
 ## 🧠 Skills
 
 Tengo la capacidad de:
-* Desarollar software en C y en Python.
-* Desarollar páginas web como Front-End con **HTML**, **CSS / BootStrap**, **JavaScript** y **React**
+* Desarrollar software en lenguaje C y en Python.
+* Desarrollar páginas web como Front-End Developer con **HTML**, **CSS / BootStrap**, **JavaScript** y **React**
 * Aplicar bases y leyes de Diseño UX/UI a proyectos.
 * Manejar y controlar el versionado de código con **Git** y **GitHub**.
 
