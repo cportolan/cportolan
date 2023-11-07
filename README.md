@@ -1,4 +1,4 @@
-### 👋 Hola Soy **Cristian Portolan**
+### 👋 Hola, soy **Cristian Portolan**
 
 En 2021 comencé a estudiar de manera autodidacta Desarrollo y Diseño Web, comencé con las tecnologías básicas y luego en 2022 comencé la carrera de Ingeniería en Informática en la UBA. Actualmente, de manera autodidacta y con cursos, busco expandir diariamente mis conocimientos y mejorar mis habilidades como desarrollador.
 
