@@ -13,4 +13,4 @@ Tengo la capacidad de:
 ## 📞 Contacto
 
 * Email: cristianportolan7@gmail.com
-* Portafolio web: [https://cristianportolan.vercel.app](https://cristianportolan.vercel.app)
+* Portafolio web: [https://portolancristian.vercel.app](https://portolancristian.vercel.app)
