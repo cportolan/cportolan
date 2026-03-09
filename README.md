@@ -1,5 +1,3 @@
-![Portada](/1724456999140.jpeg)
-
 <div align="center">
 
 # Hey there! I'm Cristian Portolan 👋
