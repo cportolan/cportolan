@@ -24,20 +24,20 @@ My approach is centered on engineering quality software through industry best pr
 
 **Front-End Developer** @ [Municipalidad de Avellaneda](https://www.mda.gob.ar/) _(Feb. 2025 – Present)_
 
-* **Description:** Technical leadership and development of digital solutions for citizen management and modernization of public systems.
-* **Featured Project:** [Portal Avellaneda](portalavellaneda.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
+Technical leadership and development of digital solutions for citizen management and modernization of public systems.
+[Portal Avellaneda](portalavellaneda.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
 
 **Web Developer** @ [Porto Growth](https://portogrowth.com/) _(Oct. 2023 – Dec. 2024)_
 
-* **Description:** Development of digital infrastructure and conversion platforms for the agency and its client portfolio.
+Development of digital infrastructure and conversion platforms for the agency and its client portfolio.
 
 **Web Developer & Designer** @ IQpartners Agency _(Oct. 2023 – Dec. 2024)_
 
-* **Description:** Created and optimized result-oriented digital products for international clients.
+Created and optimized result-oriented digital products for international clients.
 
 **Front-End Developer** @ Freelance _(Aug. 2021 – Dec. 2024)_
 
-* **Description:** Independent consultancy in web development and brand identity for entrepreneurs and small businesses.
+Independent consultancy in web development and brand identity for entrepreneurs and small businesses.
 
 ---
 
