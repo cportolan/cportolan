@@ -1,4 +1,4 @@
-![Portada](https://ibb.co/bgMBCBdh)
+![Portada](/1724456999140.jpeg)
 
 <div align="center">
 
