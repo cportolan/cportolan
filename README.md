@@ -1,4 +1,16 @@
-### Hey there! I'm Cristian Portolan 👋
+
+
+<div align="center">
+
+# Hey there! I'm Cristian Portolan 👋
+
+### Front-end Developer & UX/UI Designer
+
+Currently at **[Municipalidad de Avellaneda](https://mda.gob.ar/)**.
+
+</div>
+
+---
 
 With over three years of experience in the development landscape and currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA), I possess the technical expertise to design and deploy highly functional, high-impact web solutions.
 
