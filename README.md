@@ -12,6 +12,8 @@ Currently at **[Municipalidad de Avellaneda](https://mda.gob.ar/)**.
 
 ---
 
+## 🧑‍💻 About Me
+
 With over three years of experience in the development landscape and currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA), I possess the technical expertise to design and deploy highly functional, high-impact web solutions.
 
 My approach is centered on engineering quality software through industry best practices, crafting engaging user experiences, and consistently evolving my technical stack to stay at the forefront of the field.
@@ -20,26 +22,18 @@ My approach is centered on engineering quality software through industry best pr
 
 ## 💼 Experience
 
----
-
 **Front-End Developer** @ [Municipalidad de Avellaneda](https://www.mda.gob.ar/) _(Feb. 2025 – Present)_
 
 * **Description:** Technical leadership and development of digital solutions for citizen management and modernization of public systems.
 * **Featured Project:** [Portal Avellaneda](portalavellaneda.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
 
----
-
 **Web Developer** @ [Porto Growth](https://portogrowth.com/) _(Oct. 2023 – Dec. 2024)_
 
 * **Description:** Development of digital infrastructure and conversion platforms for the agency and its client portfolio.
 
----
-
 **Web Developer & Designer** @ IQpartners Agency _(Oct. 2023 – Dec. 2024)_
 
 * **Description:** Created and optimized result-oriented digital products for international clients.
-
----
 
 **Front-End Developer** @ Freelance _(Aug. 2021 – Dec. 2024)_
 
