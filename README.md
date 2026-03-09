@@ -2,15 +2,38 @@
 
 En 2021 comencé a estudiar desarrollo web junto con diseño ux/ui de manera autodidacta, y luego en 2022 comencé la carrera de Ingeniería en Informática en la UBA. Actualmente, de manera autodidacta y con cursos, busco expandir diariamente mis conocimientos y mejorar mis habilidades como desarrollador web.
 
-## 🧠 Skills
+---
 
-Tengo la capacidad de:
-* Desarrollar páginas web como Front-End Developer con **React**, **HTML** y **CSS (Tailwind/BootStrap)**. 
-* Desarrollar software en lenguaje **C**, **Python** y **Java**.
-* Aplicar bases y leyes de **Diseño UX/UI** a proyectos.
-* Manejar y controlar el versionado de código con **Git** y **GitHub**.
+## 🛠️ Tech Stack
 
-## 📞 Contacto
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+## 📞 Contact
 
 * Email: cristianportolan7@gmail.com
-* Portafolio web: [https://portolancristian.vercel.app](https://portolancristian.vercel.app)
+* Portfolio Web: [https://portolancristian.vercel.app](https://portolancristian.vercel.app)
