@@ -27,7 +27,7 @@ My approach is centered on engineering quality software through industry best pr
 Technical leadership and development of digital solutions for citizen management and modernization of public systems.
 [Portal Avellaneda](portalavellaneda.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
 
-**Web Developer** @ [Porto Growth](https://portogrowth.com/) _(Oct. 2023 – Dec. 2024)_
+**Web Developer** @ Porto Growth _(Oct. 2023 – Dec. 2024)_
 
 Development of digital infrastructure and conversion platforms for the agency and its client portfolio.
 
