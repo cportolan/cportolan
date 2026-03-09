@@ -25,50 +25,25 @@ My approach is centered on engineering quality software through industry best pr
 **Front-End Developer** @ [Municipalidad de Avellaneda](https://www.mda.gob.ar/) _(Feb. 2025 – Present)_
 
 * **Description:** Technical leadership and development of digital solutions for citizen management and modernization of public systems.
-* **Key Achievements & Responsibilities:**
-    * Developed functional and scalable web applications using **React** and **Next.js**.
-    * Designed user interfaces (UX/UI) in **Figma**, building design systems from low-fidelity wireframes to high-fidelity interactive prototypes.
-    * Coordinated and mentored teams of interns, guiding their technical growth and overseeing task workflows under agile methodologies.
-* **Featured Project:** [Portal Avellaneda](https://portal.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
+* **Featured Project:** [Portal Avellaneda](portalavellaneda.mda.gob.ar/) – A unified platform for electronic billing, debt inquiry, and fine management.
 
 ---
 
 **Web Developer** @ [Porto Growth](https://portogrowth.com/) _(Oct. 2023 – Dec. 2024)_
 
 * **Description:** Development of digital infrastructure and conversion platforms for the agency and its client portfolio.
-* **Key Achievements & Responsibilities:**
-    * Led the end-to-end design and development of the agency's institutional website.
-    * Implemented modern interfaces using **ReactJS** and **TailwindCSS**, ensuring high performance and responsive design.
-    * Integrated third-party APIs (such as Calendly) to automate sales and scheduling processes.
-    * Applied strategic Copywriting to improve user retention and engagement across the site.
 
 ---
 
 **Web Developer & Designer** @ IQpartners Agency _(Oct. 2023 – Dec. 2024)_
 
 * **Description:** Created and optimized result-oriented digital products for international clients.
-* **Key Achievements & Responsibilities:**
-    * Designed and redesigned high-conversion Landing Pages and E-commerce sites.
-    * Translated business requirements into functional, aesthetic, and user-friendly visual interfaces.
-    * Performed technical maintenance and updates to professional websites, ensuring optimal loading speeds and performance.
 
 ---
 
 **Front-End Developer** @ Freelance _(Aug. 2021 – Dec. 2024)_
 
 * **Description:** Independent consultancy in web development and brand identity for entrepreneurs and small businesses.
-* **Key Achievements & Responsibilities:**
-    * Built custom frontend solutions using **JavaScript**, **React**, HTML5, and CSS3.
-    * Created personalized mockups and prototypes focused on User Experience (UX).
-    * Developed visual brand identities, including logos and digital assets.
-    * Managed direct client relationships to ensure the fulfillment of specific requirements and project deadlines.
-
----
-
-### 🛠️ Tech Stack & Skills
-* **Frontend:** React, Next.js, JavaScript (ES6+), TailwindCSS, HTML5, CSS3.
-* **Design:** Figma (Design Systems, Wireframing & Prototyping), UX/UI Design, Branding.
-* **Management:** Technical Team Leadership, Task Management, Git/GitHub, Agile Methodologies.
 
 ---
 
