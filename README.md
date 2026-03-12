@@ -12,7 +12,7 @@ Currently at **[Municipalidad de Avellaneda](https://mda.gob.ar/)**.
 
 ## 🧑‍💻 About Me
 
-With over three years of experience in the development landscape and currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA), I possess the technical expertise to design and deploy highly functional, high-impact web solutions.
+With over four years of experience in the development landscape and currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA), I possess the technical expertise to design and deploy highly functional, high-impact web solutions.
 
 My approach is centered on engineering quality software through industry best practices, crafting engaging user experiences, and consistently evolving my technical stack to stay at the forefront of the field.
 
