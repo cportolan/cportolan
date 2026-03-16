@@ -12,9 +12,11 @@ Currently at **[Municipalidad de Avellaneda](https://mda.gob.ar/)**.
 
 ## 🧑‍💻 About Me
 
-With over four years of experience in the development landscape and currently pursuing a degree in Computer Engineering at the University of Buenos Aires (UBA), I possess the technical expertise to design and deploy highly functional, high-impact web solutions.
+With over four years of experience in software development, I have built a professional trajectory that combines freelance work with full-time employment in corporate environments. As a Computer Engineering student at the University of Buenos Aires (UBA), I approach each project with a solid technical foundation, prioritizing code quality and algorithmic efficiency.
 
-My approach is centered on engineering quality software through industry best practices, crafting engaging user experiences, and consistently evolving my technical stack to stay at the forefront of the field.
+Throughout my career, I have specialized in the Front-End ecosystem, with a strong focus on React and Next.js. My profile stands out for integrating technical development with UX/UI design, leveraging tools such as Figma to ensure that solutions are intuitive and user-centered. In my current projects, I apply technologies like TypeScript and Tailwind CSS to build scalable, high-performance architectures.
+
+Over the past year, I have expanded my technical role to include team coordination, managing the performance and training of interns within programming departments. This experience has allowed me to lead the development of custom component libraries and implement modern development workflows. As part of my continuous improvement process, I research and leverage Artificial Intelligence tools such as Claude, Gemini, and OpenAI models to optimize development processes and enhance productivity.
 
 ---
 
